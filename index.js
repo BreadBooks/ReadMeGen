@@ -19,7 +19,12 @@ const questions = [{
         type: "",
         name: "installation",
         message: "How can the user install this?",
-},
+    },
+    {
+        type: "",
+        name: "usage",
+        message: "How should this project be used?",
+    }
 
 
 ];

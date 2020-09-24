@@ -8,6 +8,9 @@ ${data.description}
 
 ### Installation Instructions
 ${data.installation}
+
+### Usage
+${data.usage}
 `;
 }
 

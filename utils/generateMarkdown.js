@@ -19,7 +19,7 @@ ${data.contribution}
 ${data.testing}
 
 ### Licensing
-${data.license}
+[${data.license}](https://choosealicense.com/licenses/${data.license})
 `;
 }
 

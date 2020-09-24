@@ -4,6 +4,7 @@
 
 ## Description
 A node.js application that generates a ReadME.md file based on user input
+[Video Walk through](https://youtu.be/o5V20Mx1deY)
 
 ## Table of Contents
 * [Title](#title)

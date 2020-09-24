@@ -11,6 +11,15 @@ ${data.installation}
 
 ### Usage
 ${data.usage}
+
+### Want to Contribute? :squirrel:
+${data.contribution}
+
+### Testing
+${data.testing}
+
+### Licensing
+${data.license}
 `;
 }
 

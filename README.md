@@ -5,6 +5,17 @@
 ## Description
 A node.js application that generates a ReadME.md file based on user input
 
+## Table of Contents
+* [Title](#title)
+* [Description](#description)
+* [Table of Contents](#table-of-contents)
+* [Installation](#installation-instructions)
+* [Usage](#usage)
+* [Contributing](#want-to-contribute?)
+* [Testing](#Testing)
+* [Questions/Contact Me](#questions/contact-me)
+* [Licensing](#licensing)
+
 ### Installation Instructions
 The user must run the application locally by cloning into the repo
 
@@ -22,6 +33,7 @@ Make sure to test early and often to find and avoid any errors.
 Licensing link here [MIT](https://choosealicense.com/licenses/MIT).
 
 ### Questions/Contact Me
-View my GitHub portfolio [Here](github.com/BreadBooks)
+View my GitHub portfolio [Here](https://github.com/BreadBooks)
+
 [Email Me!](mailto:brett.boggs5104@gmail.com)
 Thank you! :cherry_blossom:

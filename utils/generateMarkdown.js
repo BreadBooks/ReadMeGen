@@ -12,7 +12,7 @@ ${data.installation}
 ### Usage
 ${data.usage}
 
-### Want to Contribute? :squirrel:
+### Want to Contribute? 
 ${data.contribution}
 
 ### Testing

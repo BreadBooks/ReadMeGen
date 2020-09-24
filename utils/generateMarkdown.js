@@ -3,6 +3,8 @@ function generateMarkDown(data)  {
 
 # ${data.title}
 
+## Description
+${data.description}
 `;
 }
 

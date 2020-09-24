@@ -3,11 +3,19 @@ const fs = require("fs");
 const markDown = require("./utils/generateMarkDown")
 
 // array of questions for user
+// "" = input
 const questions = [{
     type: "",
     name: "title",
     message: "What is the name of your project?",
-  },
+},
+    {
+    type: "",
+    name: "description",
+    message: "Describe your project",
+    
+},
+
 ];
 
 // function to write README file

@@ -37,6 +37,7 @@ Licensing link here [${data.license}](https://choosealicense.com/licenses/${data
 View my GitHub portfolio [Here](https://github.com/${data.GitHub})
 
 [Email Me!](mailto:${data.email})
+
 Thank you! :cherry_blossom:
 `;
 }

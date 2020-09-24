@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const markDown = require("./utils/generateMarkDown");
-const { listenerCount } = require("process");
+
 
 // array of questions for user
 // "" = input

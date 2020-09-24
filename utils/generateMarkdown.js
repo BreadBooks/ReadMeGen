@@ -5,7 +5,11 @@ function generateMarkDown(data)  {
 
 ## Description
 ${data.description}
+
+### Installation Instructions
+${data.installation}
 `;
 }
+
 
 module.exports = generateMarkDown

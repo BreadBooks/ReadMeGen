@@ -40,7 +40,17 @@ const questions = [{
         type: "list",
         name: "license",
         message: "Which license would you like to use?",
-        choices: ["MIT", "Apache", "Mozilla"]
+        choices: ["MIT", "Apache-2.0", "Mpl-2.0", "Gpl-3.0",]
+    },
+    {
+        type: "",
+        name: "GitHub",
+        message: "Enter your GitHub username",
+    },
+    {
+        type: "",
+        name: "email",
+        message: "Enter your email address below",
     },
 
 

@@ -18,4 +18,10 @@ Email me via my business email which will be linked below!
 Make sure to test early and often to find and avoid any errors.
 
 ### Licensing
-MIT
+
+Licensing link here [MIT](https://choosealicense.com/licenses/MIT).
+
+### Questions/Contact Me
+View my GitHub portfolio [Here](github.com/BreadBooks)
+[Email Me!](mailto:brett.boggs5104@gmail.com)
+Thank you! :cherry_blossom:

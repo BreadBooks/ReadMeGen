@@ -6,6 +6,7 @@ const markDown = require("./utils/generateMarkDown");
 // array of questions for user
 // "" = input
 const questions = [{
+    
     type: "",
     name: "title",
     message: "What is the name of your project?",
@@ -25,33 +26,33 @@ const questions = [{
         type: "",
         name: "usage",
         message: "How should this project be used?",
-    },
+},
     {
         type: "",
         name: "contribution",
         message: "How can other developers contribute to this project?",
-    },
+},
     {
         type: "",
         name: "testing",
         message: "How should users test this project?",
-    },
+},
     {
         type: "list",
         name: "license",
         message: "Which license would you like to use?",
         choices: ["MIT", "Apache-2.0", "Mpl-2.0", "Gpl-3.0",]
-    },
+},
     {
         type: "",
         name: "GitHub",
         message: "Enter your GitHub username",
-    },
+},
     {
         type: "",
         name: "email",
         message: "Enter your email address below",
-    },
+},
 
 
 
